@@ -1,0 +1,14 @@
+h1 {
+  color: #0000ff;
+  text-align: center;
+}
+
+h2 {
+  font-style: italic;
+  font-weight: bold;
+  font-align: center;
+}
+
+p {
+  font-family:sans-serif;
+}
